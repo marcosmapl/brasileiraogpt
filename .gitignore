@@ -48,6 +48,12 @@ coverage.xml
 *.cover
 *.py.cover
 .hypothesis/
+
+# Environment variables
+.env
+
+# Streamlit
+.streamlit/
 .pytest_cache/
 cover/
 
